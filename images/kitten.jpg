@@ -1,0 +1,54 @@
+<HTML><HEAD>
+<TITLE>DNS Error</TITLE>
+</HEAD>
+<BODY>
+<center>
+<p><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<img src="http://www.dhs.gov/graphics/dhs_logo.gif" alt="DHS Logo" />
+<FONT face="Helvetica"
+<big><strong></strong></big><BR>
+</FONT>
+<blockquote>
+<TABLE border=0 cellPadding=1 width="80%">
+<TR><TD>
+<center>
+<FONT face="Helvetica">
+<big>DNS Error (dns_unresolved_hostname)</big>
+<BR>
+<BR>
+</FONT>
+</TD></TR>
+<center>
+<TR><TD>
+<center>
+<FONT face="Helvetica">
+<p>
+Your requested host "cdn.learnough.com" could not be resolved by DNS. Please make sure you typed the URL correctly.
+<p>
+</FONT>
+</TD></TR>
+<TR><TD>
+<center>
+<FONT face="Helvetica"
+
+</FONT>
+</TD></TR>
+<TR><TD>
+<FONT face="Helvetica">
+<center>
+<BR>
+For further assistance, please contact your respective Component Help Desk and/or Component SOC.
+</FONT>
+<center>
+</TD></TR>
+</TABLE>
+</blockquote>
+ <font face="Arial, Helvetica, sans-serif" size="2" color="Silver"><b>Proxy: psdc007-pxy<br> Your IP address: 10.193.244.21 <br>RH:DHSI60SP1001; (squid proxy header rewrite DID-IT)<br> HTTP1.1 <br></b></font>
+</FONT>
+<p>
+Additional information may be found <A HREF="http://dhsconnect.dhs.gov/HELP/Pages/HelpDesks.aspx">here.</A>
+<BR>
+If you would like to submit for access to a blocked page submit a <A HREF="https://eoconline.dhs.gov/portal/basic_controller.jsp">Web-Request.</A>
+</center>
+</BODY></HTML>
+ 
